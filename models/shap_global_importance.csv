@@ -1,0 +1,24 @@
+,0
+Contract_Two year,0.5620653
+tenure,0.3356634
+InternetService_Fiber optic,0.28272372
+Contract_One year,0.27058816
+MonthlyCharges,0.1583662
+PaymentMethod_Electronic check,0.15460697
+InternetService_No,0.121344395
+TotalCharges,0.11508129
+OnlineSecurity,0.07959289
+PaperlessBilling,0.07017898
+StreamingMovies,0.06104568
+TechSupport,0.060439657
+StreamingTV,0.042711098
+MultipleLines,0.038252257
+SeniorCitizen,0.032344494
+PhoneService,0.027654039
+Dependents,0.0154405935
+OnlineBackup,0.013092725
+PaymentMethod_Credit card (automatic),0.005621848
+Partner,0.004643076
+PaymentMethod_Mailed check,0.0034658527
+DeviceProtection,0.0009596681
+gender,0.0

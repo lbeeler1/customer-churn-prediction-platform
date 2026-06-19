@@ -1,0 +1,32 @@
+# Virtual environment
+.conda/
+venv/
+env/
+
+# Data files 
+data/*.csv
+data/*.json
+data/*.parquet
+
+# EXCEPTIONS: Force Git to track these tiny assets so the app & notebooks work instantly
+!data/customer_features.csv
+!data/telco_clean.csv
+!data/WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS junk
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
