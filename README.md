@@ -41,6 +41,11 @@ customer-churn-prediction-platform/
 
 ## Setup & Quick Start
 
+Follow the steps below if you would like to step through the notebooks and run the project locally or skip the setup entirely and **[try the live deployed app here](https://customer-churn-prediction-platform.streamlit.app/)**).
+
+**Prerequisites:**
+Running this project locally requires Git, Python 3.11, and Conda (via Miniconda or Anaconda) to be installed on your machine prior to the steps below.
+
 All commands below are run in your terminal (Terminal on Mac, Command Prompt or PowerShell on Windows)
 
 ### 1. Clone the repo
