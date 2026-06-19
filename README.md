@@ -39,6 +39,8 @@ customer-churn-prediction-platform/
 
 ## Setup & Quick Start
 
+All commands below are run in your terminal (Terminal on Mac, Command Prompt or PowerShell on Windows)
+
 ### 1. Clone the repo
 
 ```bash
