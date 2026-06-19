@@ -2,6 +2,8 @@
 
 A machine learning project that predicts customer churn for a telecommunications company and explains each prediction in plain language through an interactive Streamlit app.
 
+![App Screenshot](app_screenshot.png)
+
 ## What this project does
 
 The goal was to build something that a team could actually use to predict churn and make informed decisions: an interactive app where you look up any customer, get a churn risk score, and see exactly which factors are driving that prediction in language a non-technical person can read.
@@ -40,7 +42,7 @@ customer-churn-prediction-platform/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction-platform.git
+git clone https://github.com/lbeeler1/customer-churn-prediction-platform.git
 cd customer-churn-prediction-platform
 ```
 
