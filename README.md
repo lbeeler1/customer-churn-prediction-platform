@@ -40,7 +40,7 @@ customer-churn-prediction-platform/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction-platform.git
+git clone https://github.com/lbeeler1/customer-churn-prediction-platform.git
 cd customer-churn-prediction-platform
 ```
 
