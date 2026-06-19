@@ -2,7 +2,7 @@
 
 A machine learning project that predicts customer churn for a telecommunications company and explains each prediction in plain language through an interactive Streamlit app.
 
-**[Try the live app](https://your-streamlit-url.streamlit.app)**
+**[Try the live app](https://customer-churn-prediction-platform.streamlit.app/)**
 
 ![App Screenshot](app_screenshot.png)
 
